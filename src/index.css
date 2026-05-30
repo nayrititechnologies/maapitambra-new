@@ -1,0 +1,301 @@
+/* Google Fonts: Playfair Display (heading) + Inter (body) */
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap");
+
+@import "tailwindcss";
+
+/* Theme Color Variables - Divine & Spiritual */
+:root {
+  /* Primary Colors - Soft & Calm Spiritual Theme */
+  --color-saffron: #FF9D23;      /* Bright divine orange */
+  --color-maroon: #C14600;       /* Deep spiritual orange */
+  --color-cream: #FEF9E1;        /* Pure light cream */
+  --color-gold: #FF9D23;         /* Golden glow */
+
+  /* Extended Palette for Shades */
+  --color-saffron-light: #FFB555; /* Lighter warm glow */
+  --color-saffron-dark: #E88A15;  /* Deeper warm tone */
+  --color-maroon-light: #D96A28;  /* Lighter spiritual tone */
+  --color-maroon-dark: #A03D00;   /* Deeper grounding tone */
+  --color-cream-dark: #E5D0AC;    /* Warm tan accent */
+
+  /* Soft Divine Gradients - Light & Calm */
+  --gradient-saffron: linear-gradient(135deg, #FFB555 0%, #FF9D23 100%);
+  --gradient-gold: linear-gradient(135deg, #FEF9E1 0%, #FFB555 50%, #FF9D23 100%);
+  --gradient-maroon: linear-gradient(135deg, #E5D0AC 0%, #D96A28 100%);
+  --gradient-hero: linear-gradient(135deg, #FEF9E1 0%, #FFB555 50%, #FF9D23 100%);
+  --gradient-light: linear-gradient(135deg, #FEF9E1 0%, #E5D0AC 100%);
+  --gradient-divine: linear-gradient(135deg, #FFB555 0%, #FF9D23 50%, #E5D0AC 100%);
+  --gradient-footer: linear-gradient(135deg, #8B3A00 0%, #C14600 50%, #A03D00 100%);
+
+  /* Typography */
+  --font-heading: "Playfair Display", serif;
+  --font-body: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Soft Shadows for Divine Theme */
+  --shadow-soft: 0 4px 6px -1px rgba(193, 70, 0, 0.08),
+    0 2px 4px -1px rgba(193, 70, 0, 0.05);
+  --shadow-medium: 0 10px 15px -3px rgba(193, 70, 0, 0.1),
+    0 4px 6px -2px rgba(193, 70, 0, 0.06);
+  --shadow-large: 0 20px 25px -5px rgba(193, 70, 0, 0.12),
+    0 10px 10px -5px rgba(193, 70, 0, 0.08);
+  --shadow-glow: 0 0 30px rgba(255, 157, 35, 0.3);
+}
+
+/* Base styles */
+html {
+  scroll-behavior: smooth;
+  scrollbar-width: none; /* Firefox */
+  overflow-x: hidden;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-cream);
+  color: var(--color-maroon);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--color-maroon);
+}
+
+/* Container */
+.container {
+  width: 100%;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Typography Utilities */
+.font-heading {
+  font-family: var(--font-heading);
+}
+
+.font-body {
+  font-family: var(--font-body);
+}
+
+/* Color Utilities */
+.text-saffron {
+  color: var(--color-saffron);
+}
+.text-maroon {
+  color: var(--color-maroon);
+}
+.text-cream {
+  color: var(--color-cream);
+}
+.text-gold {
+  color: var(--color-gold);
+}
+
+.bg-saffron {
+  background-color: var(--color-saffron);
+}
+.bg-saffron-dark {
+  background-color: var(--color-saffron-dark);
+}
+.bg-maroon {
+  background-color: var(--color-maroon);
+}
+.bg-maroon-dark {
+  background-color: var(--color-maroon-dark);
+}
+.bg-cream {
+  background-color: var(--color-cream);
+}
+.bg-gold {
+  background-color: var(--color-gold);
+}
+
+/* Gradient Backgrounds */
+.bg-gradient-saffron {
+  background: var(--gradient-saffron);
+}
+.bg-gradient-gold {
+  background: var(--gradient-gold);
+}
+.bg-gradient-maroon {
+  background: var(--gradient-maroon);
+}
+.bg-gradient-hero {
+  background: var(--gradient-hero);
+}
+.bg-gradient-footer {
+  background: var(--gradient-footer);
+}
+
+/* Card Styles - Divine Theme */
+.spiritual-card {
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  padding: 2rem;
+  box-shadow: var(--shadow-soft);
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255, 157, 35, 0.15);
+}
+
+.spiritual-card:hover {
+  box-shadow: var(--shadow-medium);
+  transform: translateY(-4px);
+  border-color: rgba(255, 157, 35, 0.3);
+}
+
+.spiritual-card-bordered {
+  background-color: #ffffff;
+  border: 2px solid var(--color-gold);
+  border-radius: 1.5rem;
+  padding: 2rem;
+  box-shadow: var(--shadow-soft);
+  transition: all 0.3s ease;
+}
+
+.spiritual-card-bordered:hover {
+  box-shadow: var(--shadow-glow);
+  border-color: var(--color-saffron);
+  background-color: #FEF9E1;
+}
+
+/* Button Styles */
+.btn-primary {
+  background: var(--gradient-saffron);
+  color: #ffffff;
+  padding: 0.85rem 1.8rem;
+  border-radius: 0.75rem;
+  font-weight: 600;
+  font-family: var(--font-body);
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: var(--shadow-soft);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+}
+
+.btn-primary:hover {
+  box-shadow: var(--shadow-medium);
+  transform: translateY(-2px);
+}
+
+.btn-secondary {
+  background-color: transparent;
+  color: var(--color-saffron);
+  padding: 0.85rem 1.8rem;
+  border-radius: 0.75rem;
+  font-weight: 600;
+  font-family: var(--font-body);
+  border: 2px solid var(--color-saffron);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+}
+
+.btn-secondary:hover {
+  background-color: var(--color-saffron);
+  color: #ffffff;
+  box-shadow: var(--shadow-soft);
+}
+
+/* Section Spacing */
+.section-padding {
+  padding: 1rem 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .section-padding {
+    padding: 2rem 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .section-padding {
+    padding: 4rem 4rem;
+  }
+}
+
+/* Hide Scrollbars */
+/* For Chrome, Safari, Edge, Opera */
+::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+/* For IE and Edge (legacy) */
+* {
+  -ms-overflow-style: none;
+}
+
+/* Text Glow - Divine */
+.text-glow {
+  text-shadow: 0 0 15px rgba(255, 157, 35, 0.5);
+}
+
+/* Divider - Soft Divine Line */
+.spiritual-divider {
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #FF9D23, transparent);
+  margin: 2rem 0;
+  opacity: 0.5;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out;
+}
+
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes spin-reverse {
+  from {
+    transform: rotate(360deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 120s linear infinite;
+}
+
+.animate-spin-reverse {
+  animation: spin-reverse 180s linear infinite;
+}
+

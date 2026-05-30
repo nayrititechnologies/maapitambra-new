@@ -1,0 +1,12 @@
+{
+  "links": {
+    "home": "होम",
+    "about": "हमारे बारे में",
+    "services": "पूजा",
+    "temples": "मंदिर",
+    "vishesh_pooja": "विशेष पूजा",
+    "contact": "संपर्क करें"
+  },
+  "cta": "पूजा बुक करें",
+  "language_selector": "भाषा"
+}

@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "title": "Contact",
+    "title_highlight": "Us",
+    "description": "We're here to serve you with devotion and dedication."
+  },
+  "info": {
+    "title": "Contact Information",
+    "description": "Feel free to reach out through any of these channels. We typically respond within 24 hours.",
+    "location": {
+      "title": "Location",
+      "line1": "Hanuman Garhi Aashram, Datia (M.P.)",
+      "line2": "India"
+    },
+    "phone": {
+      "title": "Phone",
+      "line1": "+91 8959389938",
+      "line2": "+91 7987173407"
+    },
+    "email": {
+      "title": "Email",
+      "line1": "sssmpjasdatia@gmail.com"
+    },
+    "follow": "Follow Us"
+  },
+  "form": {
+    "title": "Send Us a Message",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "service": "Service Required",
+    "service_placeholder": "Select a service",
+    "date": "Preferred Date",
+    "message": "Message",
+    "message_placeholder": "Tell us about your ceremony requirements, special requests, or any questions you have...",
+    "submit": "Send Message",
+    "success_title": "Thank you for contacting us!",
+    "success_message": "We'll get back to you within 24 hours."
+  },
+  "map": {
+    "title": "Visit Us",
+    "placeholder": "Map integration placeholder"
+  }
+}

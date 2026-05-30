@@ -1,0 +1,183 @@
+{
+  "hero": {
+    "badge": "Trusted by 1000+ Families",
+    "title": "Sacred Vedic Rituals,",
+    "title_line2": "Performed With",
+    "title_highlight": "Purity & Precision",
+    "description": "Experience authentic Hindu ceremonies conducted by experienced Vedic scholars. Traditional wisdom meets modern convenience for your spiritual journey.",
+    "stats": {
+      "experience": "Years Experience",
+      "ceremonies": "Ceremonies",
+      "families": "Happy Families"
+    },
+    "cta_primary": "Book a Puja Now",
+    "cta_secondary": "View All Services",
+    "muhurat": {
+      "title": "Next Auspicious Muhurat",
+      "marriage": "Marriage: 16 December 2025",
+      "time": "5:16 AM – 11:20 AM"
+    }
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Sacred Services Offered",
+    "description": "Traditional Vedic ceremonies performed with authenticity and devotion",
+    "view_all": "View All Services",
+    "learn_more": "Learn More →",
+    "duration": "Duration",
+    "list": [
+      {
+        "title": "Grih Pravesh Puja",
+        "subtitle": "House Warming Ceremony",
+        "description": "Traditional house warming ceremony for positive energy and prosperity in your new home",
+        "duration": "2 - 3 hours",
+        "features": ["Vastu Shanti", "Ganesh Puja", "Navagraha Puja"]
+      },
+      {
+        "title": "Satyanarayan Katha",
+        "subtitle": "Divine Blessings",
+        "description": "Sacred narration and worship for prosperity, peace, and divine blessings for the family",
+        "duration": "2 - 3 hours",
+        "features": ["Complete Katha", "Prasad Distribution", "Aarti"]
+      },
+      {
+        "title": "Vivah Sanskar",
+        "subtitle": "Sacred Marriage Ritual",
+        "description": "Complete Vedic marriage ceremony performed with traditional rituals and mantras",
+        "duration": "2 - 5 hours",
+        "features": ["Complete Ceremony", "Vedic Mantras", "Customizable"]
+      },
+      {
+        "title": "Naamkaran",
+        "subtitle": "Naming Ceremony",
+        "description": "Sacred naming ceremony for newborns with astrological consultation and blessings",
+        "duration": "Flexible",
+        "features": ["Name Selection", "Muhurat Selection", "Online/Offline"]
+      }
+    ]
+  },
+  "why_choose": {
+    "badge": "Why Choose Us?",
+    "title": "Experience the Divine Difference",
+    "description": "Rooted in ancient Vedic traditions, guided by expert Pandits. We ensure your pooja is done the right way, at the right place, with the right rituals.",
+    "items": [
+      {
+        "title": "Expert Pandit Team",
+        "description": "Our team includes highly experienced and knowledgeable Pandits. They perform each pooja with proper Vedic rituals, precision, and devotion."
+      },
+      {
+        "title": "Easy & Transparent Booking",
+        "description": "Book your pooja easily from your phone with complete clarity. No hidden steps, no confusion just simple, step-by-step guidance."
+      },
+      {
+        "title": "Authentic Vedic Rituals",
+        "description": "Every ritual is done according to ancient scriptures and traditions. We ensure purity, correct vidhi, and spiritual depth in every pooja."
+      },
+      {
+        "title": "Sacred Temples Network",
+        "description": "We offer special poojas at India's most powerful & holy temples. Like: Ujjain, Omkareshwar, Kashi, Vrindavan etc. your devotion reaches the divine spots."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Testimonials",
+    "title": "What Our Families Say",
+    "description": "Trusted by hundreds of families for their sacred ceremonies",
+    "list": [
+      {
+        "name": "Rohan & Aditi Sharma",
+        "location": "Mumbai",
+        "text": "The Pandit conducted our wedding ceremony with such devotion and clarity. Every mantra was explained beautifully. Our families were deeply touched by the spiritual atmosphere created.",
+        "service": "Vivah Sanskar"
+      },
+      {
+        "name": "Priya Patel",
+        "location": "Pune",
+        "text": "The Grih Pravesh puja was conducted perfectly. The Pandit arrived on time, was well-prepared, and made sure we understood every ritual. Highly recommended!",
+        "service": "Grih Pravesh Puja"
+      },
+      {
+        "name": "Amit Gupta",
+        "location": "Ahmedabad",
+        "text": "Very knowledgeable and patient. The Satyanarayan Katha was performed with complete dedication. Our entire family felt blessed.",
+        "service": "Satyanarayan Katha"
+      }
+    ]
+  },
+  "about_section": {
+    "badge": "About Us",
+    "title": "Meet",
+    "name": "Pandit Shri Name",
+    "description_p1": "Coming from a distinguished lineage of Vedic scholars, our experienced Pandits have been trained in the sacred scriptures by renowned gurus. With over 15 years of experience, they have performed over 1000 ceremonies with devotion and precision.",
+    "description_p2": "Fluent in Hindi, Gujarati, and English, our team ensures that every ritual is explained clearly, making your spiritual journey meaningful and memorable.",
+    "cards": {
+      "scholar": "Vedic Scholar",
+      "scholar_subtitle": "Traditional Training",
+      "astrologer": "Astrologer",
+      "astrologer_subtitle": "Expert Guidance"
+    },
+    "cta": "Learn More About Us"
+  },
+  "book_pandit": {
+    "title": "At India's Most Holy Temples",
+    "subtitle": "Book Online for All Pooja & Ritual Services",
+    "description": "At Maa Pitambra Anushthan, we don't just arrange a Pooja; we help you experience it with heart and soul. For us, a puja is not just a service; it is a bridge between you and the blessings you seek. Many devotees wish to perform rituals at temples like Ujjain, Omkareshwar, Nalkheda, Datia Peetambara, Vrindavan, or Kashi Vishwanath, but distance or time often becomes a barrier. That's why we created a way to make it possible through online puja booking and our dedicated services.",
+    "cta": "Book Your Pooja Now"
+  },
+  "cta": {
+    "title": "Ready to Begin Your Sacred Journey?",
+    "description": "Book your puja today and experience authentic Vedic rituals performed with devotion and precision",
+    "btn_primary": "Book a Consultation",
+    "btn_secondary": "Browse Services",
+    "features": {
+      "verified": "Verified Vedic Scholar",
+      "families": "500+ Happy Families",
+      "multilingual": "Multilingual Services"
+    }
+  },
+  "how_to_perform": {
+    "title": "How to perform Puja in",
+    "title_highlight": "Maa Pitambra Anushthan",
+    "description": "A pooja is performed by following proper Vedic vidhi, including mantra chanting, offerings, and rituals under the guidance of a qualified Pandit. Right muhurat, pure intentions, and proper steps ensure the pooja is spiritually effective and fruitful.",
+    "steps": [
+      {
+        "number": "1.",
+        "title": "Choose Your Pooja",
+        "description": "Select your pooja from the Maa Pitambra Anushthan list."
+      },
+      {
+        "number": "2.",
+        "title": "Fill Your Details",
+        "description": "After selecting pooja, fill in the name and sankalp details in the given form."
+      },
+      {
+        "number": "3.",
+        "title": "Connect with Us on WhatsApp",
+        "description": "The video of the pooja performed with your sankalp will be shared on WhatsApp."
+      },
+      {
+        "number": "4.",
+        "title": "Reach the location & performed Pooja",
+        "description": "Select the free prasad during the pooja."
+      }
+    ]
+  },
+  "contact_form": {
+    "badge": "Get a quote",
+    "title_line1": "Start Your Spiritual Journey",
+    "title_line2": "Connect with Us Today",
+    "tagline": "Contact. Commit. Connect.",
+    "description_line1": "Have questions or ready to book your pooja?",
+    "description_line2": "Connect with us for complete spiritual guidance.",
+    "phone": "+91 8959389938",
+    "email": "sssmpjasdatia@gmail.com",
+    "form": {
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "mobile": "Mobile Number",
+      "email": "Email ID",
+      "message": "Comment or Message",
+      "submit": "SUBMIT"
+    }
+  }
+}

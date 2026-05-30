@@ -1,0 +1,59 @@
+{
+  "app_name": "Sarawasiddhi Shri Maa Pitambra Baglamukhi Jyotish evam Anushthan Hanuman Gadhi Datia",
+  "tagline": "Sacred Vedic Rituals",
+  "language": {
+    "english": "English",
+    "hindi": "हिंदी"
+  },
+  "buttons": {
+    "book_now": "Book Now",
+    "book_puja": "Book Puja",
+    "learn_more": "Learn More",
+    "view_all": "View All Services",
+    "contact_us": "Contact Us",
+    "get_in_touch": "Get in Touch",
+    "send_message": "Send Message",
+    "explore_services": "Explore Services",
+    "participate_now": "Participate Now"
+  },
+  "loading": "Loading...",
+  "error": "Something went wrong",
+  "success": "Success!",
+  "form": {
+    "required": "This field is required",
+    "invalid_email": "Invalid email address",
+    "invalid_phone": "Invalid phone number"
+  },
+  "footer": {
+    "brand": {
+      "name": "Maa Pitambra Anushthan",
+      "tagline": "Sacred Vedic Rituals",
+      "description": "Maa Pitambra Anushthan has connected devotees, priests, and temples to bring religious services to people across India. Partnering with over 50 renowned temples, we offer special puja and offerings performed by expert priests and share videos of the completed rituals. Have questions or ready to book your pooja? Connect with us for complete spiritual guidance."
+    },
+    "quick_links": {
+      "title": "Quick Links",
+      "home": "Home",
+      "about": "About Us",
+      "services": "Pooja Services",
+      "contact": "Contact Us"
+    },
+    "services": {
+      "title": "Our Services",
+      "grih_pravesh": "Grih Pravesh Puja",
+      "satyanarayan": "Satyanarayan Katha",
+      "vivah": "Vivah Sanskar",
+      "vishesh": "Vishesh Pooja"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "location": "Hanuman Garhi Aashram, Datia (M.P.)",
+      "phone": "+91 8959389938",
+      "email": "sssmpjasdatia@gmail.com"
+    },
+    "bottom": {
+      "copyright": "All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  }
+}

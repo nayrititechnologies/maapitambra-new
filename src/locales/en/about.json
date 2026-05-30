@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "badge": "Our Story",
+    "title": "Preserving",
+    "title_highlight": "Ancient Wisdom",
+    "title_line2": "for Modern Times",
+    "description": "A journey spanning generations, dedicated to maintaining the purity and authenticity of Vedic traditions while serving contemporary spiritual needs."
+  },
+  "main": {
+    "badge": "About Us",
+    "title": "Meet",
+    "name": "Pandit Shri Name"
+  },
+  "values": {
+    "badge": "Our Values",
+    "title": "Guided by Sacred Principles",
+    "description": "Core values that shape every ceremony and interaction"
+  },
+  "expertise": {
+    "badge": "Areas of Expertise",
+    "title": "Comprehensive Spiritual Services"
+  },
+  "timeline": {
+    "badge": "Our Journey",
+    "title": "A Legacy of Service",
+    "description": "Milestones in our spiritual journey"
+  },
+  "cta": {
+    "title": "Let's Begin Your Spiritual Journey Together",
+    "description": "Whether it's a sacred ceremony or spiritual guidance you seek, we're here to serve you with devotion and authenticity."
+  }
+}

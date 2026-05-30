@@ -1,0 +1,12 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Poojas",
+    "temples": "Temples",
+    "vishesh_pooja": "Vishesh Pooja",
+    "contact": "Contact Us"
+  },
+  "cta": "Book a Puja",
+  "language_selector": "Language"
+}

@@ -1,0 +1,80 @@
+{
+  "aboutUs": {
+    "hero": {
+      "title": "Maa Pitambra Anushthan,",
+      "title_highlight": "Datia",
+      "description": "Your Trusted Poojan Partner."
+    },
+    "content": {
+      "intro": "Maa Pitambra Anushthan is a spiritual platform where faith, tradition, and service come together. Our mission is to help devotees perform every pooja with the right rituals, guided by experienced and knowledgeable Panditjis. Whether it's Kaal Sarp Dosh Nivaran, Rudrabhishek, or powerful Mahavidya-based Tantrik Poojas, every ritual at Maa Pitambra Anushthan is performed with complete devotion and purity.",
+      "vision_label": "Our Vision:",
+      "vision": "To become the most trusted spiritual platform that connects devotees to the divine by making authentic pooja services accessible at India's most sacred temples. We envision a world where every believer can experience the power of true Sanatan rituals with ease, purity, and faith.",
+      "mission_label": "Our Mission:",
+      "mission": "To serve every devotee with devotion and dignity by providing accurate, tradition-based pooja services performed by experienced Panditjis. We aim to preserve and promote our rich Vedic culture by ensuring every ritual is performed with the right vidhi, at the right place, and with the right intent.",
+      "values_label": "Our Values:",
+      "values": "Shraddha (Faith): We honor every devotee's belief with utmost respect and sincerity. Shuddhata (Purity): All rituals are performed with pure intent, clean methods, and Vedic precision. Satya (Truth): We remain transparent and honest in our services and spiritual guidance.",
+      "closing": "We offer special pooja services at sacred temples across India, including Ujjain, Nalkheda, Omkareshwar, Vrindavan, Kashi, and Datia. Our team understands the emotions behind every devotee's prayer and conducts each ritual as per authentic Sanatan traditions. At Maa Pitambra Anushthan, we don't just arrange poojas we make sure your faith reaches the right place, the right way."
+    }
+  },
+  "visheshPooja": {
+    "hero": {
+      "title": "Special Occasions",
+      "title_highlight": "Vishesh Pooja",
+      "description": "Special Worship of Pitambara Mai"
+    }
+  },
+  "pooja": {
+    "hero": {
+      "title": "Popular",
+      "title_highlight": "Poojas",
+      "description": "Perform your rituals in famous temples of India as per Vedic customs"
+    }
+  },
+  "mandir": {
+    "hero": {
+      "title": "Divine",
+      "title_highlight": "Temples",
+      "description": "Perform your rituals in famous temples of India as per Vedic custom."
+    },
+    "temples": [
+      {
+        "name": "Nalkheda Baglamukhi Temple",
+        "location": "Nalkheda, Madhya Pradesh",
+        "deity": "Goddess Baglamukhi",
+        "description": "One of the most powerful Shaktipeeth-like temples, dedicated to Maa Baglamukhi, known for siddhis and protection from negative energies."
+      },
+      {
+        "name": "Mahakaleshwar Temple",
+        "location": "Ujjain, Madhya Pradesh",
+        "deity": "Lord Shiva",
+        "description": "One of the twelve Jyotirlingas, famous for the sacred Bhasma Aarti performed every morning at the ancient Mahakal Temple.",
+        "timings": "4:00 AM - 11:00 PM"
+      },
+      {
+        "name": "Omkareshwar Jyotirlinga",
+        "location": "Omkareshwar, Madhya Pradesh",
+        "deity": "Lord Shiva",
+        "description": "A revered Jyotirlinga located on Mandhata Island shaped like 'Om', surrounded by the Narmada river."
+      },
+      {
+        "name": "Kashi",
+        "location": "Varanasi, Uttar Pradesh",
+        "deity": "Lord Shiva",
+        "description": "One of the holiest Shiva temples in India, located on the banks of the Ganga, known as the spiritual capital's central shrine."
+      },
+      {
+        "name": "Hanuman Gadhi Temple Datia",
+        "location": "Datia, Madhya Pradesh",
+        "deity": "Goddess Pitambara (Dattatreya tradition)",
+        "description": "A powerful Shaktipeeth established by Shri Swamiji, known for sadhana, tantra practices, and devotion to Maa Pitambara."
+      }
+    ]
+  },
+  "mandirDetails": {
+    "hero": {
+      "title": "Popular",
+      "title_highlight": "Poojas",
+      "description": "Perform rituals in {{templeName}}."
+    }
+  }
+}

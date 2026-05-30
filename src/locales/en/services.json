@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "badge": "Our Services",
+    "title": "Sacred",
+    "title_highlight": "Vedic Ceremonies",
+    "title_line2": "for Every Occasion",
+    "description": "From life milestones to spiritual blessings, we offer authentic ceremonies performed with traditional rituals and devotion."
+  },
+  "categories": {
+    "all": "All Services",
+    "lifecycle": "Life Ceremonies",
+    "home": "Home & Business",
+    "spiritual": "Spiritual Pujas"
+  },
+  "process": {
+    "badge": "How It Works",
+    "title": "Simple Booking Process",
+    "steps": {
+      "contact": {
+        "title": "Contact Us",
+        "description": "Reach out via phone, email, or contact form"
+      },
+      "consultation": {
+        "title": "Consultation",
+        "description": "Discuss your requirements and ceremony details"
+      },
+      "schedule": {
+        "title": "Schedule",
+        "description": "Choose an auspicious date and time (muhurat)"
+      },
+      "ceremony": {
+        "title": "Ceremony",
+        "description": "We perform the puja with devotion and precision"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Book Your Ceremony?",
+    "description": "Contact us today for personalized consultation and muhurat selection"
+  }
+}
